@@ -20,7 +20,8 @@
         "utility"
     ],
     "resources": {
-    "sprites": [
-        "resources/natha.cps-cap/MenuCap.png"
-    ]
+        "sprites": [
+            "resources/MenuCap.png"
+        ]
+    }
 }
